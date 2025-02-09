@@ -13,8 +13,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirements", "Requirement
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{8453EBE2-1B61-4C76-9E47-54D1AA36A728}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviApiDomein", "Core\Me-oveAPiDomain\MoviApiDomein.csproj", "{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1ECD471-5306-4B9E-93CA-97EF5CA4D176} = {8ADCD81F-C383-4E02-921D-6C9F195A21F7}
 	EndGlobalSection
 EndGlobal
