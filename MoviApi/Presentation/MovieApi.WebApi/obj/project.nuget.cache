@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVEmUbMFQGA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agafard\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\agafard\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoviApiDomein")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e0306fbc9cbcb6b33f24b2f7f068607ab50799e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6538da1a1feeac531630dc84d48316728e58b075")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoviApiDomein")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoviApiDomein")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

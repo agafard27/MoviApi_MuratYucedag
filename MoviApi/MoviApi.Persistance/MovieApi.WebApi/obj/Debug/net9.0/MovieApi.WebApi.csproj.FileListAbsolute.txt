@@ -1,0 +1,7 @@
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.csproj.AssemblyReference.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.AssemblyInfoInputs.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.AssemblyInfo.cs
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.sourcelink.json

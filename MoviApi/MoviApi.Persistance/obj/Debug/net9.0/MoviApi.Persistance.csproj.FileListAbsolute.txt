@@ -1,0 +1,6 @@
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\obj\Debug\net9.0\MoviApi.Persistance.csproj.AssemblyReference.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\obj\Debug\net9.0\MoviApi.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\obj\Debug\net9.0\MoviApi.Persistance.AssemblyInfoInputs.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\obj\Debug\net9.0\MoviApi.Persistance.AssemblyInfo.cs
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\obj\Debug\net9.0\MoviApi.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\MoviApi.Persistance\obj\Debug\net9.0\MoviApi.Persistance.sourcelink.json

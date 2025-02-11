@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}|Core\\Me-oveAPiDomain\\MoviApiDomein.csproj|c:\\users\\agafard\\documents\\github\\moviapi\\moviapi\\core\\me-oveapidomain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}|Core\\Me-oveAPiDomain\\MoviApiDomein.csproj|solutionrelative:core\\me-oveapidomain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}|Core\\Me-oveAPiDomain\\MoviApiDomein.csproj|c:\\users\\agafard\\documents\\github\\moviapi\\moviapi\\core\\me-oveapidomain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}|Core\\Me-oveAPiDomain\\MoviApiDomein.csproj|solutionrelative:core\\me-oveapidomain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}|Core\\Me-oveAPiDomain\\MoviApiDomain.csproj|c:\\users\\agafard\\documents\\github\\moviapi\\moviapi\\core\\me-oveapidomain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ECD471-5306-4B9E-93CA-97EF5CA4D176}|Core\\Me-oveAPiDomain\\MoviApiDomain.csproj|solutionrelative:core\\me-oveapidomain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "Core\\Me-oveAPiDomain\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\Entities\\Movie.cs",
-              "RelativeToolTip": "Core\\Me-oveAPiDomain\\Entities\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Core\\Me-oveAPiDomain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\Entities\\Review.cs",
+              "RelativeToolTip": "Core\\Me-oveAPiDomain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:18:50.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\Me-oveAPiDomain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\Me-oveAPiDomain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:17:06.222Z",
+              "WhenOpened": "2025-02-11T17:51:31.149Z",
               "EditorCaption": ""
             }
           ]

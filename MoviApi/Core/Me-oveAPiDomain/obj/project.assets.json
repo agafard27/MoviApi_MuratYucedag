@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\MoviApiDomein.csproj",
-      "projectName": "MoviApiDomein",
-      "projectPath": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\MoviApiDomein.csproj",
+      "projectUniqueName": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\MoviApiDomain.csproj",
+      "projectName": "MoviApiDomain",
+      "projectPath": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\MoviApiDomain.csproj",
       "packagesPath": "C:\\Users\\agafard\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\agafard\\Documents\\github\\MoviApi\\MoviApi\\Core\\Me-oveAPiDomain\\obj\\",
       "projectStyle": "PackageReference",

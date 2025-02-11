@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace MoviApiDomein.Entities
 {
-   public class Review
+    public class Review
     {
         public int ReviewId { get; set; }
-        public string ReviewComment { get; set; }
+        public string ReviewComment { get; set; } = string.Empty;
         public int UserRating { get; set; }
         public DateTime ReviewDate { get; set; }
 
-       public bool Status { get; set; }
+        public bool Status { get; set; }
     }
 }
- 4 ÜNCÜ DERSTEN DEVAM ET...

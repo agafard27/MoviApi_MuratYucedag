@@ -1,0 +1,12 @@
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\bin\Debug\net9.0\MoviApiDomain.deps.json
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\bin\Debug\net9.0\MoviApiDomain.dll
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\bin\Debug\net9.0\MoviApiDomain.pdb
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.AssemblyInfoInputs.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.AssemblyInfo.cs
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.csproj.CoreCompileInputs.cache
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.sourcelink.json
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.dll
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\refint\MoviApiDomain.dll
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\MoviApiDomain.pdb
+C:\Users\agafard\Documents\github\MoviApi\MoviApi\Core\Me-oveAPiDomain\obj\Debug\net9.0\ref\MoviApiDomain.dll
