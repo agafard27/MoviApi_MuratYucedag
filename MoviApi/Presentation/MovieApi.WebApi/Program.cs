@@ -1,23 +1,25 @@
+using Microsoft.EntityFrameworkCore;
+using MovieApi.Persistence.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ?? Veritabaný baðlantýsýný ekle
+builder.Services.AddDbContext<MovieContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+builder.Services.AddEndpointsApiExplorer();
+
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ?? Swagger'ý sadece Development ortamýnda aktif et
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();
